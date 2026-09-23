@@ -30,7 +30,7 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
-    backgrund-color; #9b4d83;
+    background-color; #9b4d83;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -61,17 +61,18 @@ img {
     border-radius: 12px;
 }
 figcaption {
-text-aling: center;
+text-align: center;
 font-size: 14px;
-color: #5555555
-margim-top: 8px;
+color: #5555555;
+margin-top: 8px;
 }
 
 card {
     background-color: #f3d9fa;
     padding: 15px;
     margin: 15px 0;
-    border-left:6px solid #6d2d5cborder-radius: 10px;
+    border-left:6px solid #6d2d5c 
+    border-radius: 10px;
 }
 
 card h3 {
