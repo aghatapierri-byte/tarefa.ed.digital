@@ -6,7 +6,7 @@
      --cor-hover: #A6643D;
      --cor-superficie: #DBB6A0;
      --cor-card: #A67051;
-     --cor-legena: #4F301F;
+     --cor-legenda: #4F301F;
      --cor-clara: #ffffff;
      --cor-rodape: #361F13;
  }
@@ -42,7 +42,7 @@
  }
 
  nav a {
-     color: var (--cor-clara);
+     color: var(--cor-clara);
      text-decoration: none;
      background-color: var(--cor-secundaria);
      padding: 10px 15px;
@@ -79,7 +79,7 @@
  figcaption {
      text-align: center;
      font-size: 14px;
-     color: var(--cor-legena);
+     color: var(--cor-legenda);
      margin-top: 8px;
  }
 
